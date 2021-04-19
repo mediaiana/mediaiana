@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 В поиске интресных предложений
 - 🌱 Изучаю 
+-->
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
@@ -18,4 +19,3 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
--->
